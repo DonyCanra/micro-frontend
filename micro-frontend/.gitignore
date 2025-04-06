@@ -1,0 +1,29 @@
+# node modules
+**/node_modules/
+
+# build output
+**/dist/
+**/build/
+
+# webpack cache
+**/.webpack/
+
+# logs
+**/*.log
+**/npm-debug.log*
+
+# env files
+**/.env
+**/.env.*
+
+# editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
